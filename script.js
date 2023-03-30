@@ -12,7 +12,7 @@ let p= new Promise(function(resolve, reject){
 
         if(age1>18){
             alert(`Welcome,${name1}. You can vote`)
-        }aa
+        }
         else{
             alert(`Oh sorry ${name1}. You aren't old enough`)
         }
